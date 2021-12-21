@@ -5,8 +5,9 @@ The final dashboard is deployed on Heroku (https://joychow.herokuapp.com/).
 ## Dashboard Description
 
 This dashboard allows users to explore 182 top-rated mystery and horror movies based on the following search criteria: 
-1) Select a rating value to see all movies with this IMDB score and above. As a second criterion, select a year to see all movies released in this year and later. The scatterplot presents the matched results on the timeline; users can hover over a dot to see movie details including its title, primary genre, the year in which the movie was released, IMDB rating, and the number of votes on IMDB. The table shows additional information such as the movie's synopsis and remarks from critics. 
-2) Select a country to find directors who belong to that country and have more than one movie on the list as well as the average score of a specific director's movies. 
+1) Select a rating value to see all movies with this IMDB score and above. 
+2) As a second criterion, select a year to see all movies released in this year and later. The scatterplot presents the matched results on the timeline; users can hover over a dot to see movie details including its title, primary genre, the year in which the movie was released, its IMDB rating, and the number of votes on IMDB. The table shows additional information such as the movie's synopsis and remarks from critics. 
+3) Select a country to find directors who belong to that country and have more than one movie on this list as well as the average score of a specific director's movies. 
 
 ### Data Sources
 
