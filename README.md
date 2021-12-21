@@ -11,9 +11,7 @@ This dashboard allows users to explore 182 top-rated mystery and horror movies b
 
 ### Data Sources
 
-Data were compiled from RottenTomatoes and IMDB database. Based on two movie lists published by RottenTomatoes, the specifics of these movies were collected from their respective pages and converted into a cleaned data frame. Duplicates were removed since several movies were on both lists, resulting in 182 movies in total. IMDB ratings and votes were then matched to each movie. 
-In addition, 
-Excel was used slightly in this process.
+Data were compiled from RottenTomatoes and IMDB database. Based on two movie lists published by RottenTomatoes, the specifics of these movies were collected from their respective pages through web scraping and converted into a cleaned data frame. Duplicates were removed since several movies were on both lists, resulting in 182 movies in total. IMDB basics and ratings were matched according to movies' unique IDs. The rating information was then matched to each of the 182 movies according to movie title and released year. Excel was used slightly in this process.
 
 - Top 100 Mystery & Suspense Movies: https://www.rottentomatoes.com/top/bestofrt/top_100_mystery__suspense_movies/
 - Top 100 Horror Movies: https://www.rottentomatoes.com/top/bestofrt/top_100_horror_movies/
