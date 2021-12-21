@@ -1,6 +1,6 @@
 # MA705 Final Project
 
-The final dashboard is deployed on Heroku (https://ma705bostonuniversities.herokuapp.com).
+The final dashboard is deployed on Heroku (https://joychow.herokuapp.com/).
 
 ## Dashboard Description
 
