@@ -1,6 +1,6 @@
 # MA705 Final Project
 
-The final dashboard is deployed on Heroku (https://joychow.herokuapp.com/).
+The final dashboard is deployed on Heroku (https://joychow705.herokuapp.com/).
 
 ## Dashboard Description
 
@@ -20,6 +20,6 @@ Data were compiled from RottenTomatoes and IMDB database. Based on two movie lis
 - Top 100 Horror Movies: https://www.rottentomatoes.com/top/bestofrt/top_100_horror_movies/
 - Movie basics and ratings on IMDB: https://www.imdb.com/interfaces/
 
-### Areas of Improvement
+### Area of Improvement
 
 - Was not successful at extracting critics/audience ratings from RottenTomatoes' flexbox elements. Would be better if this information can be integrated as well.
